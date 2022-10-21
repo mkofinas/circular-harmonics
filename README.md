@@ -4,6 +4,8 @@ Visualizations of circular harmonics.
 
 ![Circular Harmonics](img/circular_harmonics.png)
 
+![Circular Harmonics Polar](img/circular_harmonics_polar.png)
+
 See the [Jupyter notebook](src/circular_harmonics.ipynb) for more details.
 
 ## Sources
