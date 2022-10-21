@@ -6,7 +6,7 @@ Visualizations of circular harmonics.
 
 ![Circular Harmonics Polar](img/circular_harmonics_polar.png)
 
-See the [Jupyter notebook](src/circular_harmonics.ipynb) for more details.
+[![Jupyter](https://img.shields.io/static/v1.svg?logo=jupyter&label=Jupyter&message=View%20On%20Github&color=lightgreen)](src/circular_harmonics.ipynb)
 
 ## Sources
 
