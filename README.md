@@ -2,7 +2,7 @@
 
 [![Jupyter](https://img.shields.io/static/v1.svg?logo=jupyter&label=Jupyter&message=View%20On%20Github&color=lightgreen)](src/circular_harmonics.ipynb)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkofinas/circular-harmonics/src/circular_harmonics.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mkofinas/circular-harmonics/blob/main/src/circular_harmonics.ipynb)
 
 
 Visualizations of circular harmonics.
