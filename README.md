@@ -12,7 +12,7 @@ Visualizations of circular harmonics.
 ![Circular Harmonics Polar](img/circular_harmonics_polar.png)
 
 
-See also my [post on spherical harmonics](https://github.com/mkofinas/spherical-harmonics)
+See also my [post on spherical harmonics](https://github.com/mkofinas/spherical-harmonics).
 
 ## Sources
 
