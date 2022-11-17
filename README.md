@@ -12,6 +12,8 @@ Visualizations of circular harmonics.
 ![Circular Harmonics Polar](img/circular_harmonics_polar.png)
 
 
+See also my [post on spherical harmonics](https://github.com/mkofinas/spherical-harmonics)
+
 ## Sources
 
 - Circular Harmonics: Digging in circles, https://valdes.cc/articles/ch.html
